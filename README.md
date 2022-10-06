@@ -1,0 +1,8 @@
+BikeShare🚲
+Descripción general En este proyecto, utilizo Python para explorar datos relacionados con sistemas de bicicletas públicas para tres ciudades importantes de los Estados Unidos: Chicago, Nueva York y Washington.
+
+Datos de bicicletas compartidas Durante la última década, los sistemas de bicicletas compartidas han ido creciendo en número y popularidad en ciudades de todo el mundo. Los sistemas de bicicletas compartidas permiten a los usuarios alquilar bicicletas a muy corto plazo por un precio. Esto permite que las personas tomen prestada una bicicleta del punto A y la devuelvan en el punto B, aunque también pueden devolverla en el mismo lugar si solo quieren dar un paseo. Independientemente, cada bicicleta puede servir a varios usuarios por día.
+
+Gracias al auge de las tecnologías de la información, es fácil para un usuario del sistema acceder a un muelle dentro del sistema para desbloquear o devolver bicicletas. Estas tecnologías también proporcionan una gran cantidad de datos que se pueden utilizar para explorar cómo se utilizan estos sistemas de bicicletas compartidas.
+
+En este proyecto, utilizará los datos proporcionados por Motivate, un proveedor de sistemas de bicicletas compartidas para muchas ciudades importantes de los Estados Unidos, para descubrir patrones de uso de bicicletas compartidas. Comparará el uso del sistema entre tres grandes ciudades: Chicago, Nueva York y Washington, DC.
