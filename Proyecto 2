@@ -237,7 +237,7 @@ def display_data(df):
             parsed_row = json.loads(row)
             json_row = json.dumps(parsed_row, indent=2)
             print(json_row)
-
+# Terminates initial query, ready for next query
 def main():
     while True:
         city, month, day = get_filters()
